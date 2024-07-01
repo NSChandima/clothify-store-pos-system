@@ -1,0 +1,10 @@
+
+	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8îÊä–†2J$5add1de7-b75d-4b49-bcde-c304a297969d
+Ü
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(âØ¡®8–Ëä–†2J$0168cef9-5e4d-4e37-af18-f63c8707e1a9
+„
+java:S1126"AReplace this if-then-else statement by a single return statement.(Œ›Éô8›Ëä–†2J$f4e4dcbd-3063-443f-aa33-c7f6096d0aa3
+m	java:S106"+Replace this use of System.out by a logger.(¯õàÅ8Ëä–†2J$c64437d8-6326-45f9-8d81-b725abb74267
+r	java:S106:"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8¢Ëä–†2J$3c6eef96-9852-47be-9e2f-41cb33108884
+n
+java:S1168<"+Return an empty collection instead of null.(¥¹ï8Ú™æ–†2J$39902bb7-d155-41e8-82ac-8f4bc2e7557b

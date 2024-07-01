@@ -1,0 +1,22 @@
+
+	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8€ικ–†2J$86ca615f-6996-416b-a7b6-2cdf21a7db50
+w
+java:S3740"/Provide the parametrized type for this generic.(Μζ«ύÿÿÿÿ8‚ικ–†2J$42144762-f0ed-4d91-85c2-a1f15cb71d69
+q
+java:S3740"/Provide the parametrized type for this generic.(ττD8‚ικ–†2J$8d4810f6-963d-4de9-a9b3-c34292b47efd
+w
+java:S3740"/Provide the parametrized type for this generic.(Òª„ϋÿÿÿÿ8‚ικ–†2J$b08fae62-5890-49ce-91f0-08be70350567
+w
+java:S3740"/Provide the parametrized type for this generic.(ύΰέΛώÿÿÿÿ8‚ικ–†2J$32772a13-21cf-4bd7-bde3-0d121cd78785
+
+java:S1104"[Make orderDetailForm a static final constant or non-public and provide accessors if needed.(®—¬8„ικ–†2J$db2c3954-23fd-4960-9e6e-bb12e02a535f
+£
+java:S1104"[Make tblOrderDetails a static final constant or non-public and provide accessors if needed.(Μζ«ύÿÿÿÿ8„ικ–†2J$1ca2048d-e9d4-42ce-9707-e8ff9bd43286
+
+java:S1104"VMake colOrderId a static final constant or non-public and provide accessors if needed.(ττD8„ικ–†2J$aac65f56-81e3-4328-8918-d2d2afbe1079
+
+java:S1104"WMake colItemCode a static final constant or non-public and provide accessors if needed.(Òª„ϋÿÿÿÿ8„ικ–†2J$46b1cc72-59e5-44d4-9837-12e94ff133ed
+
+java:S1104"WMake colQuantity a static final constant or non-public and provide accessors if needed.(ύΰέΛώÿÿÿÿ8„ικ–†2J$4eb696c4-11cf-4721-9871-5e56c9187861
+y
+java:S11725"1Remove this unused method parameter "mouseEvent".( ³Ίύÿÿÿÿ8¤ικ–†2J$f81c292d-470e-4635-8712-a7b1fa4e5845

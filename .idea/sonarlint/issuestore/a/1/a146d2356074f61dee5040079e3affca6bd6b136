@@ -1,0 +1,62 @@
+
+	java:S112–"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8θώ’†2J$fbcb75a8-37dd-4192-9717-41d21dcdc8ed
+w
+java:S3740&"/Provide the parametrized type for this generic.(γμ‹ωÿÿÿÿ8ιώ’†2J$0e580e1c-dd88-4ee4-8b52-ecfb4d7c5ddd
+q
+java:S3740'"/Provide the parametrized type for this generic.(“φϊ8ιώ’†2J$607b54ba-b020-4c90-8fa9-5eb13b140085
+r
+java:S3740("/Provide the parametrized type for this generic.(‡Ύ8κώ’†2J$e16e57c4-0575-49f6-9555-c7fe006bacca
+w
+java:S3740)"/Provide the parametrized type for this generic.(Òª„ϋÿÿÿÿ8κώ’†2J$5ba080e4-e006-4eca-adc7-02c16d111f32
+w
+java:S3740*"/Provide the parametrized type for this generic.(ΚΪΞ¨ωÿÿÿÿ8κώ’†2J$a05bcb03-e5a6-44d9-9fa7-f4b75ca79554
+w
+java:S3740+"/Provide the parametrized type for this generic.(·§έρόÿÿÿÿ8κώ’†2J$de82849f-38c1-4f69-a835-04d6e6505448
+r
+java:S3740,"/Provide the parametrized type for this generic.(«–Κ8κώ’†2J$d0144318-6b93-4e0c-847c-ec551348e3d3
+r
+java:S3740-"/Provide the parametrized type for this generic.(έΰΫ8κώ’†2J$27566fc9-2b9e-40b7-af6d-8853c0b6a19a
+r
+java:S3740."/Provide the parametrized type for this generic.(Ι’‰Θ8λώ’†2J$07b66139-35c5-43cb-9cdd-d6ce44c98aca
+r
+java:S3740/"/Provide the parametrized type for this generic.(Ό‘8λώ’†2J$cb1bc68b-9ad1-405e-93f5-8408282eb12e
+
+java:S1104!"WMake txtItemCode a static final constant or non-public and provide accessors if needed.(ψάά΅όÿÿÿÿ8ξώ’†2J$80144aae-08ba-49a5-8848-1398bc96feab
+›
+java:S1104""SMake txtName a static final constant or non-public and provide accessors if needed.(¨δέμÿÿÿÿÿ8ξώ’†2J$aa13d66f-a60c-468e-b9d1-cbd4ab9aec0b
+›
+java:S1104#"SMake txtSize a static final constant or non-public and provide accessors if needed.(Ή«¦ÿωÿÿÿÿ8ξώ’†2J$5244bd07-f7c1-494a-a7da-594318c0150c
+ 
+java:S1104$"XMake txtUnitPrice a static final constant or non-public and provide accessors if needed.(©›ΧΠωÿÿÿÿ8ξώ’†2J$c11e4ad4-8ba8-4758-a30d-7e7d7fe842eb
+¥
+java:S1104%"]Make txtQauntityOnHand a static final constant or non-public and provide accessors if needed.(Ί“Ωωÿÿÿÿ8οώ’†2J$ffb86d1f-1111-4c69-a2cc-9afddf769fe3
+
+java:S1104&"WMake cmbCategory a static final constant or non-public and provide accessors if needed.(γμ‹ωÿÿÿÿ8οώ’†2J$e5bcb3d2-d43a-4b94-8b90-8fa0055b1321
+›
+java:S1104'"YMake cmbSupplierId a static final constant or non-public and provide accessors if needed.(“φϊ8οώ’†2J$83332e8c-3562-409e-8f6e-49abb7b0f24d
+–
+java:S1104("SMake tblItem a static final constant or non-public and provide accessors if needed.(‡Ύ8οώ’†2J$c6aa008a-4f74-4da4-bb68-517cbedf72a6
+
+java:S1104)"WMake colItemCode a static final constant or non-public and provide accessors if needed.(Òª„ϋÿÿÿÿ8οώ’†2J$c0228262-1dd0-46da-bae4-4a264abaf31c
+›
+java:S1104*"SMake colName a static final constant or non-public and provide accessors if needed.(ΚΪΞ¨ωÿÿÿÿ8οώ’†2J$8559ef11-57e7-4671-a47c-90cca3367c6e
+
+java:S1104+"WMake colCategory a static final constant or non-public and provide accessors if needed.(·§έρόÿÿÿÿ8οώ’†2J$a04fe2ae-a79c-4411-9a01-b83e6f53ddf6
+–
+java:S1104,"SMake colSize a static final constant or non-public and provide accessors if needed.(«–Κ8οώ’†2J$fb24fb46-1048-4273-a7b5-c0e032dba92f
+›
+java:S1104-"XMake colUnitPrize a static final constant or non-public and provide accessors if needed.(έΰΫ8πώ’†2J$7905b1fe-7510-43e5-a0a8-58c9c2666e73
+›
+java:S1104."XMake colQtyOnHand a static final constant or non-public and provide accessors if needed.(Ι’‰Θ8πώ’†2J$751f1e31-b6c6-4ec1-b890-201309265ec8
+
+java:S1104/"YMake colSupplierId a static final constant or non-public and provide accessors if needed.(Ό‘8πώ’†2J$ec74295f-6104-4bd4-be46-b1f038f4ac96
+
+java:S11040"WMake addItemForm a static final constant or non-public and provide accessors if needed.(ε„έ‹ύÿÿÿÿ8πώ’†2J$69bb9ead-71b1-4810-a357-c7a1373680e3
+z
+java:S1172C"2Remove this unused method parameter "actionEvent".(»…δ«ωÿÿÿÿ8Γÿ’†2J$26011e63-f86a-43ed-b45f-0017f79ed403
+u
+java:S1172T"2Remove this unused method parameter "actionEvent".(“‘8Θÿ’†2J$fbb82e3f-7973-4a38-a349-c8ca42f3d216
+p
+java:S1602…",Remove useless curly braces around statement(ςκίΧ8Òÿ’†2J$8cf99093-a57a-4a7e-b387-b9ed4d521578
+z
+java:S1172"1Remove this unused method parameter "mouseEvent".(±®ªΛÿÿÿÿÿ8Τÿ’†2J$facfb723-3f62-48f2-903c-10ce7cff1bd0

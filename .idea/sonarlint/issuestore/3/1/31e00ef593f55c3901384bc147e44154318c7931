@@ -1,0 +1,46 @@
+
+	java:S112“"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Â ’†2J$adbdea2b-eac0-418e-8cd0-2f0bd41c0241
+r
+java:S3740"/Provide the parametrized type for this generic.(Ÿœ¼‘8±ö–’†2J$672fe51d-5284-4610-a0ee-b4db6a286dd8
+w
+java:S3740"/Provide the parametrized type for this generic.(ÊÚÎ¨ùÿÿÿÿ8±ö–’†2J$6363472b-fb2c-48c4-abb1-54ead3513bfb
+w
+java:S3740"/Provide the parametrized type for this generic.(°Äˆ´ÿÿÿÿÿ8²ö–’†2J$259eb8ea-1101-4bd6-9a44-1b746463999a
+r
+java:S3740 "/Provide the parametrized type for this generic.(Ş˜ıÚ8³ö–’†2J$4bdf50a1-4a33-48a6-b386-9d5d50c115df
+r
+java:S3740!"/Provide the parametrized type for this generic.(ƒäÆ8µö–’†2J$b99dafe6-d5a6-4ed6-bfff-d8454f590b13
+r
+java:S3740'"/Provide the parametrized type for this generic.(ìÒÑŒ8µö–’†2J$3bc11eb5-19b9-4806-9b79-be6ab0f1a52f
+œ
+java:S1104"YMake colSupplierId a static final constant or non-public and provide accessors if needed.(Ÿœ¼‘8¸ö–’†2J$619960c2-f47b-4c8b-83a7-80b70a0da3c9
+›
+java:S1104"SMake colName a static final constant or non-public and provide accessors if needed.(ÊÚÎ¨ùÿÿÿÿ8¸ö–’†2J$f8cba6c0-f97d-4a71-a03c-57fe54d992ea
+
+java:S1104"VMake colCompany a static final constant or non-public and provide accessors if needed.(°Äˆ´ÿÿÿÿÿ8¹ö–’†2J$2c0dd29c-2680-4081-9595-80ad533d891e
+™
+java:S1104 "VMake colContact a static final constant or non-public and provide accessors if needed.(Ş˜ıÚ8¹ö–’†2J$8a43d2cd-bec4-4b8d-8ff5-724192736b3c
+—
+java:S1104!"TMake colEmail a static final constant or non-public and provide accessors if needed.(ƒäÆ8»ö–’†2J$5b5772c3-d5f3-42cf-8442-8e89710cbd04
+œ
+java:S1104""YMake txtSupplierId a static final constant or non-public and provide accessors if needed.(öÖñ8»ö–’†2J$4a4261df-912d-42e7-9584-8462c2df6d9f
+›
+java:S1104#"SMake txtName a static final constant or non-public and provide accessors if needed.(¨äİìÿÿÿÿÿ8»ö–’†2J$c93ebc7e-e9ce-461f-8d0c-464181de6b0f
+™
+java:S1104$"VMake txtCompany a static final constant or non-public and provide accessors if needed.(Úù÷ê8¼ö–’†2J$785f8182-f082-40c1-b84f-450262046faf
+
+java:S1104%"VMake txtContact a static final constant or non-public and provide accessors if needed.(µªÔùÿÿÿÿ8¼ö–’†2J$9299de63-1a43-4d2c-8643-0fad35560541
+œ
+java:S1104&"TMake txtEmail a static final constant or non-public and provide accessors if needed.(Ø¦½üÿÿÿÿ8¼ö–’†2J$082c347b-19d8-4281-be35-02710996239d
+š
+java:S1104'"WMake tblSupplier a static final constant or non-public and provide accessors if needed.(ìÒÑŒ8¼ö–’†2J$c4897bec-0ac1-4048-a3b8-b4fe383afc62
+£
+java:S1104("[Make addSupplierForm a static final constant or non-public and provide accessors if needed.(Øù¢øÿÿÿÿ8”¹’†2J$6b16bd5b-b5e2-4b29-817e-b9721c68d98b
+z
+java:S11728"2Remove this unused method parameter "actionEvent".(»…ä«ùÿÿÿÿ8£÷–’†2J$6ff04822-b631-4be1-a707-3904d06c9295
+z
+java:S1172F"2Remove this unused method parameter "actionEvent".(¿˜å•øÿÿÿÿ8ª÷–’†2J$b9738fce-c9c9-488c-af14-13df5ff76e67
+u
+java:S1172V"2Remove this unused method parameter "actionEvent".(Œ“‘8­÷–’†2J$3e7be438-8eac-4666-ad5c-90c751022819
+z
+java:S1172‰"1Remove this unused method parameter "mouseEvent".(±®ªËÿÿÿÿÿ8õÂ ’†2J$e887f10c-5a3f-4c2c-ad1d-2335e5b2897c

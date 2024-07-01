@@ -1,0 +1,65 @@
+
+	java:S112­"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8É—öò„2J$7e2668d4-1475-4d10-a22b-33d91d2b54ed
+	java:S112Ï"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ê—öò„2J$5a078068-14bd-4b9e-8653-215a5f2fd9fb
+	java:S112í"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÁÉÀ’†2J$9ddc3761-bea9-4021-9652-de9851d07ae6
+	java:S112€"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8“¶–†2J$41b3a2fe-3c62-400c-a1ff-4d73e5711555
+r
+java:S3740."/Provide the parametrized type for this generic.(íÛêÕ8Ê—öò„2J$84744bf9-9b7b-4c34-a4b8-3cbce541291e
+r
+java:S3740/"/Provide the parametrized type for this generic.(æö´ö8Ë—öò„2J$f17e236e-9156-4448-9639-627cb6ace7e2
+w
+java:S37408"/Provide the parametrized type for this generic.(Òª„ûÿÿÿÿ8Ë—öò„2J$e4362bdc-0aa5-4918-9491-81fa4daa37f8
+r
+java:S37409"/Provide the parametrized type for this generic.(¶ı¡•8Ë—öò„2J$d721e0da-416d-4591-afd2-1d2549c3d989
+w
+java:S3740:"/Provide the parametrized type for this generic.(ıàİËşÿÿÿÿ8Ë—öò„2J$218f35cd-4f43-489c-b868-6db8cc0c3b43
+r
+java:S3740;"/Provide the parametrized type for this generic.(Õ…¼í8Ë—öò„2J$212573b8-0c31-4b14-ba00-e6ae65d5b8b6
+r
+java:S3740<"/Provide the parametrized type for this generic.(¨­Ì˜8Ë—öò„2J$fc35907b-d052-41a7-9dd5-a527cf392122
+w
+java:S3740="/Provide the parametrized type for this generic.(–¤³Òşÿÿÿÿ8Ë—öò„2J$80dd2588-c795-4a17-a84d-159bdf0d6c93
+œ
+java:S1104."YMake cmbCustomerId a static final constant or non-public and provide accessors if needed.(íÛêÕ8Í—öò„2J$01d36dcb-8e91-4c03-b27b-a1d25d0012b4
+š
+java:S1104/"WMake cmbItemCode a static final constant or non-public and provide accessors if needed.(æö´ö8Î—öò„2J$5fded585-a0f3-4731-a38a-2e3f8bdf6278
+
+java:S11040"VMake lblOrderId a static final constant or non-public and provide accessors if needed.(¢–ñ¯ıÿÿÿÿ8Î—öò„2J$d8ec2e91-cdda-4484-b772-4796e03593ff
+£
+java:S11041"[Make txtCustomerName a static final constant or non-public and provide accessors if needed.(ì¨ìÑøÿÿÿÿ8Î—öò„2J$3f4f48da-ec70-479d-81ec-ba441e4bbff7
+›
+java:S11042"SMake lblDate a static final constant or non-public and provide accessors if needed.(…“À„ÿÿÿÿÿ8Î—öò„2J$3cbec29d-851d-48b1-bb69-c8d24f1ca6f4
+š
+java:S11043"WMake txtItemName a static final constant or non-public and provide accessors if needed.(¬Åá…8Î—öò„2J$6e3574f1-0659-4003-80cf-aa00bb9c8169
+ 
+java:S11044"XMake txtUnitPrice a static final constant or non-public and provide accessors if needed.(©›×Ğùÿÿÿÿ8Î—öò„2J$af28f270-6533-45eb-a683-c62a637f6b6a
+š
+java:S11045"XMake txtQtyOnHand a static final constant or non-public and provide accessors if needed.(è¡”X8Î—öò„2J$3bb84815-5ba4-4530-b075-ef2ac45d1d25
+š
+java:S11046"WMake txtQauntity a static final constant or non-public and provide accessors if needed.(¼Ò”8Î—öò„2J$27cddcdd-b6f2-438f-b62d-7bf6ae511811
+Ÿ
+java:S11047"WMake lblNetTotal a static final constant or non-public and provide accessors if needed.(Êà£†úÿÿÿÿ8Î—öò„2J$f5f30900-35c0-4bec-812e-29152000e3f4
+Ÿ
+java:S11048"WMake colItemCode a static final constant or non-public and provide accessors if needed.(Òª„ûÿÿÿÿ8Î—öò„2J$34b06667-b491-43e4-b660-611786bf3a7d
+
+java:S11049"ZMake colDescription a static final constant or non-public and provide accessors if needed.(¶ı¡•8Î—öò„2J$782ada48-c16b-4347-bb63-213d5694fa9b
+Ÿ
+java:S1104:"WMake colQuantity a static final constant or non-public and provide accessors if needed.(ıàİËşÿÿÿÿ8Î—öò„2J$41b636bc-d0f7-494d-ad35-78a453370a02
+›
+java:S1104;"XMake colUnitPrice a static final constant or non-public and provide accessors if needed.(Õ…¼í8Î—öò„2J$89eaa75a-b7b4-4433-8f0b-bf5f8b4fad15
+—
+java:S1104<"TMake colTotal a static final constant or non-public and provide accessors if needed.(¨­Ì˜8Ï—öò„2J$8373139f-992d-49ca-883e-75e98b5a619c
+
+java:S1104="UMake tblOrders a static final constant or non-public and provide accessors if needed.(–¤³Òşÿÿÿÿ8Ï—öò„2J$98dc3bcd-5ada-495f-aa06-dcc14856ae31
+¢
+java:S1104>"ZMake placeOrderForm a static final constant or non-public and provide accessors if needed.(£ÙÖáÿÿÿÿÿ8öÚ¾’†2J$7263a9c2-c539-496f-a8a5-14d59c2f4f6e
+É
+java:S1186r"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±“üÀøÿÿÿÿ8¤˜öò„2J$53c73444-30b5-44fc-ac7f-fcf2d7f42dac
+z
+java:S1172v"2Remove this unused method parameter "actionEvent".(Š²Ô¢úÿÿÿÿ8µ˜öò„2J$70cbf86f-3b10-481e-a364-52f22ce37df0
+{
+java:S1172“"2Remove this unused method parameter "actionEvent".(—²Üğøÿÿÿÿ8»˜öò„2J$2b618850-b723-4b0f-a592-80ee2269d74e
+z
+java:S1172ã"1Remove this unused method parameter "mouseEvent".(±®ªËÿÿÿÿÿ8ËÀ’†2J$72e420b6-5dc9-46a1-8e29-e1235a6a67d3
+{
+java:S1172ö"2Remove this unused method parameter "actionEvent".(š£Äıüÿÿÿÿ8€•¶–†2J$7b62bb5f-bd5a-4c4e-8839-4bfee73eefe0

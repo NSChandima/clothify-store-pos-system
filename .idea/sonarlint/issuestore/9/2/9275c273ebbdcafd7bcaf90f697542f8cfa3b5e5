@@ -1,0 +1,40 @@
+
+	java:S112Œ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Û·Ò–†2J$16f88681-5689-451d-936e-2da57ab330a2
+w
+java:S3740!"/Provide the parametrized type for this generic.(•³îŞùÿÿÿÿ8ƒŠÄÔ„2J$8df3e824-38b2-43b0-b342-3f9106c00d74
+r
+java:S3740""/Provide the parametrized type for this generic.(ì¬ƒ8ƒŠÄÔ„2J$7ae55bce-242e-4689-91e9-573f8c5c2c9b
+w
+java:S3740#"/Provide the parametrized type for this generic.(ÊÚÎ¨ùÿÿÿÿ8„ŠÄÔ„2J$5367e65c-53f4-4c30-bdd0-7fcf4300313c
+r
+java:S3740$"/Provide the parametrized type for this generic.(¯ÿı°8„ŠÄÔ„2J$be3fda7d-188c-4113-a025-6dae44529247
+r
+java:S3740%"/Provide the parametrized type for this generic.(Ş˜ıÚ8–ÿ×‘†2J$36b29439-6e38-4b33-914f-0878a16d7da3
+œ
+java:S1104"YMake txtCustomerId a static final constant or non-public and provide accessors if needed.(©ÿç8†ŠÄÔ„2J$60d0db88-53a2-4cb9-9c69-acc406fbb8e0
+£
+java:S1104"[Make txtCustomerName a static final constant or non-public and provide accessors if needed.(ì¨ìÑøÿÿÿÿ8†ŠÄÔ„2J$4197de68-50fd-4b7f-bd13-77e57b39be60
+
+java:S1104"VMake txtAddress a static final constant or non-public and provide accessors if needed.(©ûîùıÿÿÿÿ8†ŠÄÔ„2J$2f73cb25-d747-46f4-8b71-11fd85eca09d
+
+java:S1104 "VMake txtContact a static final constant or non-public and provide accessors if needed.(µªÔùÿÿÿÿ8†ŠÄÔ„2J$bd6caa97-91f7-419e-ac69-5885c40f2925
+Ÿ
+java:S1104!"WMake tblCustomer a static final constant or non-public and provide accessors if needed.(•³îŞùÿÿÿÿ8†ŠÄÔ„2J$6baf9dd1-76a0-4f90-ac5a-edbd092ee600
+œ
+java:S1104""YMake colCustomerId a static final constant or non-public and provide accessors if needed.(ì¬ƒ8†ŠÄÔ„2J$e6decbda-4264-4631-8fb9-7295833ced9e
+›
+java:S1104#"SMake colName a static final constant or non-public and provide accessors if needed.(ÊÚÎ¨ùÿÿÿÿ8‡ŠÄÔ„2J$4f3264b5-3bdf-4f5b-80db-9c353a0a6d2b
+™
+java:S1104$"VMake colAddress a static final constant or non-public and provide accessors if needed.(¯ÿı°8‡ŠÄÔ„2J$4e558110-f794-48f3-a3d8-f8848cf03210
+™
+java:S1104%"VMake colContact a static final constant or non-public and provide accessors if needed.(Ş˜ıÚ8‡ŠÄÔ„2J$bc598ad3-fbc3-41cc-a1a2-f6345650b22f
+
+java:S1104&"[Make addCustomerForm a static final constant or non-public and provide accessors if needed.(Ëâßë8­Šá‘†2J$25e1ad00-cc57-4375-b14f-e8e1c305e184
+z
+java:S11726"2Remove this unused method parameter "actionEvent".(»…ä«ùÿÿÿÿ8­¸Ò–†2J$f3756346-4e0b-49bf-b402-684ffd6a26a3
+z
+java:S1172D"2Remove this unused method parameter "actionEvent".(¿˜å•øÿÿÿÿ8°¸Ò–†2J$18fcb32f-7d01-4a0b-a039-86ca079b2b64
+u
+java:S1172S"2Remove this unused method parameter "actionEvent".(Œ“‘8³¸Ò–†2J$9863f1a3-6b6c-451a-9e78-d94f7a3291fa
+z
+java:S1172‚"1Remove this unused method parameter "mouseEvent".(±®ªËÿÿÿÿÿ8»¸Ò–†2J$c7b79cf3-e319-4bd5-9bf5-0de87fcd7ec6

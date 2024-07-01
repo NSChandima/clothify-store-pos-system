@@ -1,0 +1,20 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ù¸Î‘†2J$85f084eb-3b65-4262-be57-98a15852f411
+	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ú¸Î‘†2J$c760b70a-69a5-4b29-8739-e017bf31b6c5
+	java:S112="FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ú¸Î‘†2J$8eec813c-3481-4aca-b51f-9db01fa89169
+	java:S112K"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ú¸Î‘†2J$8ed32fc3-5991-4b4a-9e34-499c448595c1
+	java:S112Y"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Û¸Î‘†2J$430a282e-0274-4198-a854-ec927a469679
+¡
+java:S1104"YMake dashBoardForm a static final constant or non-public and provide accessors if needed.(€‡é¸ıÿÿÿÿ8Ü¸Î‘†2J$f82d49f1-baab-4512-be2f-4a7591117142
+Ä
+java:S1186]"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Âôñ“8Œ¹Î‘†2J$a6623436-fdfd-4a9a-90f5-e81a1fd53655
+y
+java:S1172"1Remove this unused method parameter "mouseEvent".(®ÒÜâúÿÿÿÿ8—¹Î‘†2J$a723d39f-1139-4473-a00a-564c58825733
+t
+java:S1172%"1Remove this unused method parameter "mouseEvent".(æäáØ8Ï¹Î‘†2J$a194e20c-223c-418a-9d92-d0cd6a0305bc
+t
+java:S11723"1Remove this unused method parameter "mouseEvent".( ™ñù8Ø¹Î‘†2J$f90d3bda-25b9-478f-a4b3-101d138c6e00
+t
+java:S1172A"1Remove this unused method parameter "mouseEvent".(íıü8à¹Î‘†2J$218e3af3-5596-4d9c-a87b-2ac1eb451e04
+y
+java:S1172O"1Remove this unused method parameter "mouseEvent".(·•’şÿÿÿÿ8æ¹Î‘†2J$d6cb712d-4afd-4b13-9368-a695d9b97809

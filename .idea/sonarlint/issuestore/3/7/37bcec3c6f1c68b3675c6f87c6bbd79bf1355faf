@@ -1,0 +1,8 @@
+
+	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8îº÷Ô2J$a498fe6d-fe9c-4bc2-930f-d6ea417890e9
+¨
+java:S14880"`Immediately return this expression instead of assigning it to the temporary variable "customer".(èáÔ£şÿÿÿÿ8¿ŒøÔ2J$e879ce69-3331-427c-8807-d8e4e774c8fe
+Ü
+java:S6548
+"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(¢ÊÙÓ8»÷Ô2J$a57e5fb9-96b6-46bf-92bb-b3c9c696447b
+r	java:S106$"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8§»÷Ô2J$c5026821-89f5-4f77-9fab-703325d6c2b7

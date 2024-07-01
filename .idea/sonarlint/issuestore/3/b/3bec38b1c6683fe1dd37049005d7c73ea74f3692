@@ -1,0 +1,48 @@
+
+	java:S112©"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ªÓ³’†2J$34af4ccf-93c6-4b00-8128-9a82e9fad841
+w
+java:S3740%"/Provide the parametrized type for this generic.(¢Ç„øÿÿÿÿ8îËƒî„2J$cf111fc6-317f-4c7c-a29e-85063914ee12
+r
+java:S3740&"/Provide the parametrized type for this generic.(³şœî8îËƒî„2J$993a703d-17e9-4717-a33a-9bca5e636dd6
+w
+java:S3740'"/Provide the parametrized type for this generic.(ÊÚÎ¨ùÿÿÿÿ8îËƒî„2J$55237961-2583-404b-92b8-505060864e22
+r
+java:S3740("/Provide the parametrized type for this generic.(Ş˜ıÚ8îËƒî„2J$f35231b6-15dc-4b67-bc67-e416939f79e4
+r
+java:S3740)"/Provide the parametrized type for this generic.(ƒäÆ8èâ±’†2J$d5d8abe4-4dbb-46bb-b90a-92388f4a67ca
+—
+java:S1104!"UMake txtUserId a static final constant or non-public and provide accessors if needed.(ËŠår8ğËƒî„2J$260d6450-a208-418f-841c-e96054417343
+Ÿ
+java:S1104""WMake txtUserName a static final constant or non-public and provide accessors if needed.(÷‹Ú’üÿÿÿÿ8ğËƒî„2J$41959f50-a5c5-49b5-a6fa-4fa98cfe2015
+œ
+java:S1104#"TMake txtEmail a static final constant or non-public and provide accessors if needed.(Ø¦½üÿÿÿÿ8ğËƒî„2J$8bf52178-508a-42a3-a3ad-2710f5ec8ab2
+
+java:S1104$"VMake txtContact a static final constant or non-public and provide accessors if needed.(µªÔùÿÿÿÿ8ğËƒî„2J$18d0814d-968e-4d40-9437-ed73ab58f698
+›
+java:S1104%"SMake tblUser a static final constant or non-public and provide accessors if needed.(¢Ç„øÿÿÿÿ8ğËƒî„2J$497185d9-103e-47c4-ae2a-b2d2ac7ddc29
+˜
+java:S1104&"UMake colUserId a static final constant or non-public and provide accessors if needed.(³şœî8ğËƒî„2J$a33329c0-bd92-4b30-be7f-2ff9eb58cd7d
+›
+java:S1104'"SMake colName a static final constant or non-public and provide accessors if needed.(ÊÚÎ¨ùÿÿÿÿ8ñËƒî„2J$b0f2301f-3c60-45b3-879f-01eba956248c
+™
+java:S1104("VMake colContact a static final constant or non-public and provide accessors if needed.(Ş˜ıÚ8ñËƒî„2J$19f35d54-294e-4bf1-94dc-7889e9bf6bd7
+—
+java:S1104)"TMake colEmail a static final constant or non-public and provide accessors if needed.(ƒäÆ8ñËƒî„2J$5b9dbbf7-20be-4cc4-95ec-1eba9de058b4
+£
+java:S1104*"[Make addEmployeeForm a static final constant or non-public and provide accessors if needed.(Áõ¦ğûÿÿÿÿ8ïâ±’†2J$7cc57bff-623b-480a-85ba-5128e57640cd
+Ê
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±“üÀøÿÿÿÿ8³Ìƒî„2J$47c4cd9b-7011-47a7-b875-7812e5f53b31
+z
+java:S1172;"2Remove this unused method parameter "actionEvent".(»…ä«ùÿÿÿÿ8»Ìƒî„2J$4d568d62-b547-44cc-9760-ea0d1e458d7b
+z
+java:S1172I"2Remove this unused method parameter "actionEvent".(¿˜å•øÿÿÿÿ8¾Ìƒî„2J$ef7cf950-1760-422b-9d80-70e485cd2afd
+
+java:S1854]"<Remove this useless assignment to local variable "isDelete".(Ü÷áº8ÁÌƒî„2J$f1027a7d-1e65-489c-998f-4d320a57887f
+u
+java:S1172Y"2Remove this unused method parameter "actionEvent".(Œ“‘8ÂÌƒî„2J$ae929030-fad4-438d-a872-ee2a93d40886
+p
+java:S1481]"-Remove this unused "isDelete" local variable.(Ü÷áº8ÄÌƒî„2J$fdf786a4-28a4-433b-abac-e86729d5a000
+r	java:S106e"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ÆÌƒî„2J$7fecee98-4919-47cf-8950-07287fdd128a
+r	java:S106~"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ÊÌƒî„2J$37cb7fbe-dad5-4244-bf95-bc667fa45cb5
+z
+java:S1172Ÿ"1Remove this unused method parameter "mouseEvent".(±®ªËÿÿÿÿÿ8ìÔ³’†2J$81137df3-5535-4a10-a4b1-d4ba15471797

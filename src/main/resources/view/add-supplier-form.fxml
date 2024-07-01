@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="addSupplierForm" prefHeight="689.0" prefWidth="633.0" style="-fx-background-color: F3F7EC;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.icet.crm.controller.supplier.SupplierFormController">
+   <children>
+      <Label alignment="CENTER" layoutX="156.0" layoutY="28.0" prefHeight="53.0" prefWidth="342.0" text="Manage Suppliers" textFill="#0c1844">
+         <font>
+            <Font name="Cambria Bold" size="35.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="53.0" fitWidth="65.0" layoutX="76.0" layoutY="28.0" onMouseClicked="#imgBackToDashBoardOnClick" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../image/home.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="75.0" fitWidth="87.0" layoutX="496.0" layoutY="17.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../image/supplier.png" />
+         </image>
+      </ImageView>
+      <JFXButton layoutX="129.0" layoutY="366.0" onAction="#btnAddOnAction" style="-fx-background-color: #102c57;" text="+NEW SUPPLIER" textFill="#fcfcfc">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="289.0" layoutY="366.0" onAction="#btnUpdateOnAction" prefHeight="30.0" prefWidth="82.0" style="-fx-background-color: #102c57;" text="UPDATE" textFill="#fcfcfc">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="414.0" layoutY="366.0" onAction="#btnDeleteOnAction" prefHeight="30.0" prefWidth="82.0" style="-fx-background-color: #102c57;" text="DELETE" textFill="#fcfcfc">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </JFXButton>
+      <JFXTextField fx:id="txtSupplierId" layoutX="150.0" layoutY="129.0" prefHeight="31.0" prefWidth="333.0" promptText="Supplier ID">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </JFXTextField>
+      <JFXTextField fx:id="txtName" layoutX="150.0" layoutY="172.0" prefHeight="31.0" prefWidth="333.0" promptText="Supplier Name">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </JFXTextField>
+      <JFXTextField fx:id="txtCompany" layoutX="150.0" layoutY="216.0" prefHeight="31.0" prefWidth="333.0" promptText="Company Name">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </JFXTextField>
+      <JFXTextField fx:id="txtContact" layoutX="150.0" layoutY="262.0" prefHeight="31.0" prefWidth="333.0" promptText="Contact Number">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </JFXTextField>
+      <JFXTextField fx:id="txtEmail" layoutX="150.0" layoutY="305.0" prefHeight="31.0" prefWidth="333.0" promptText="Email Address">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </JFXTextField>
+      <TableView fx:id="tblSupplier" layoutX="53.0" layoutY="418.0" prefHeight="260.0" prefWidth="547.0">
+        <columns>
+          <TableColumn fx:id="colSupplierId" prefWidth="77.0" text="Supplier ID" />
+          <TableColumn fx:id="colName" prefWidth="103.0" text="Name" />
+            <TableColumn fx:id="colCompany" prefWidth="126.0" text="Company" />
+            <TableColumn fx:id="colContact" prefWidth="91.0" text="Contact" />
+            <TableColumn fx:id="colEmail" prefWidth="149.0" text="Email" />
+        </columns>
+      </TableView>
+      <Separator layoutX="75.0" layoutY="91.0" prefHeight="1.0" prefWidth="492.0" style="-fx-background-color: #0c1844;" />
+   </children>
+</AnchorPane>

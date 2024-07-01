@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="dashBoardForm" prefHeight="644.0" prefWidth="709.0" style="-fx-background-color: F3F7EC;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.icet.crm.controller.dashboard.DashBoardFormController">
+   <children>
+      <Label alignment="CENTER" layoutX="129.0" layoutY="14.0" prefHeight="70.0" prefWidth="452.0" text="CLOTHIFY STORE" textFill="#8d3232">
+         <font>
+            <Font name="System Bold" size="48.0" />
+         </font>
+      </Label>
+      <Label layoutX="249.0" layoutY="84.0" text="SMART POINT OF SALSE SYSTEM" textFill="#b51414">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Label>
+      <Rectangle arcHeight="25.0" arcWidth="25.0" height="264.0" layoutX="394.0" layoutY="182.0" stroke="BLACK" strokeType="INSIDE" style="-fx-fill: F3F7EC;" width="259.0" />
+      <Rectangle arcHeight="25.0" arcWidth="25.0" height="264.0" layoutX="63.0" layoutY="182.0" stroke="BLACK" strokeType="INSIDE" style="-fx-fill: F3F7EC;" width="265.0" />
+      <ImageView fitHeight="62.0" fitWidth="69.0" layoutX="96.0" layoutY="210.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fitHeight="62.0" fitWidth="69.0" layoutX="96.0" layoutY="210.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fitHeight="62.0" fitWidth="69.0" layoutX="96.0" layoutY="321.0" onMouseClicked="#imgAddCustomerOnClick" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../image/customer.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="70.0" fitWidth="69.0" layoutX="224.0" layoutY="206.0" onMouseClicked="#imgAddItemOnClick" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../image/item.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="62.0" fitWidth="69.0" layoutX="96.0" layoutY="210.0" onMouseClicked="#imgPlaceOrderOnClick" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../image/place order.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="62.0" fitWidth="62.0" layoutX="218.0" layoutY="321.0" onMouseClicked="#imgAddSupplierOnClick" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../image/supplier.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="86.0" layoutY="394.0" text="Add Customer" textFill="#8d3232">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label layoutX="212.0" layoutY="394.0" text="Add Supplier" textFill="#8d3232">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label layoutX="97.0" layoutY="289.0" text="Place Order" textFill="#8d3232">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label layoutX="232.0" layoutY="289.0" text="Add Item" textFill="#8d3232">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="69.0" fitWidth="69.0" layoutX="419.0" layoutY="207.0" onMouseClicked="#imgAddUserOnClick" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../image/cashier.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="427.0" layoutY="289.0" text="Add User" textFill="#8d3232">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="69.0" fitWidth="69.0" layoutX="548.0" layoutY="210.0" onMouseClicked="#imgAddSupplierOnClick" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../image/supplier.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="545.0" layoutY="289.0" text="Add Supplier" textFill="#8d3232">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="69.0" fitWidth="69.0" layoutX="488.0" layoutY="332.0" onMouseClicked="#imgGenerateReportOnClick" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../image/report.jpeg" />
+         </image>
+      </ImageView>
+      <Label layoutX="473.0" layoutY="411.0" text="Generate Reports" textFill="#8d3232">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" layoutX="175.0" layoutY="459.0" prefHeight="27.0" prefWidth="74.0" text="Cashier" textFill="#8d3232">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" layoutX="486.0" layoutY="459.0" prefHeight="27.0" prefWidth="74.0" text="Admin" textFill="#8d3232">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Label>
+      <Separator layoutX="14.0" layoutY="134.0" prefHeight="3.0" prefWidth="681.0" style="-fx-background-color: #8d3232;" />
+      <Label layoutX="138.0" layoutY="508.0" text="Please Select one of above main operation to proceed" textFill="#1329b5">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="248.0" layoutY="578.0" text="Copyright 2024 DEP. All Rights Reserved">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

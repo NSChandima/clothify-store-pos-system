@@ -1,0 +1,8 @@
+
+	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8áûÃë„2J$65befc83-23cd-4dee-bf68-af84dc8135e8
+	java:S112["FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8áûÃë„2J$babf2ca0-21eb-4f3a-9366-eb6729833120
+¤
+java:S14889"\Immediately return this expression instead of assigning it to the temporary variable "item".(ä®Õıÿÿÿÿ8äûÃë„2J$568e3e34-80a6-4b41-9995-45716714ed0e
+Ü
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(Ì½ÍÒ8òûÃë„2J$3e05f24b-cb6e-44e5-8c77-ddc8d4a577b7
+r	java:S106-"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8üûÃë„2J$780a682e-7a8f-4e07-8866-6f9846a576d6
